@@ -71,3 +71,22 @@ Presumably good will is to be assumed from other authors, though, and in many ca
 To help trace things back, sources and authors are noted in source files.
 
 Everything in `stress-tests` is implicitly CC0, except reference implementations taken from around the Internet.
+
+
+
+
+## TODO
+- Matei:
+- [ ] Contest
+- [ ] Number Theory
+- [ ] Graphs
+- Liudas:
+- [ ] Data Structures
+- [ ] Strings
+- [ ] Various
+- Maciek:
+- [ ] Front page
+- [ ] Math
+- [ ] Numerical
+- [ ] Geometry
+- [ ] Combinatorics
