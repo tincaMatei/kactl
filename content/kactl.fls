@@ -1,0 +1,4 @@
+PWD /home/climaxcx/Desktop/competitive_programming/kactl/content
+INPUT /home/climaxcx/.miktex/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt
+INPUT /home/climaxcx/Desktop/competitive_programming/kactl/content/kactl.tex
+OUTPUT kactl.log
