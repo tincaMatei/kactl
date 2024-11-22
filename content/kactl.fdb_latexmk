@@ -1,10 +1,10 @@
 # Fdb version 4
-["pdflatex"] 1732305383.53379 "/home/climaxcx/Desktop/competitive_programming/kactl/content/kactl.tex" "kactl.pdf" "kactl" 1732305385.05743 2
+["pdflatex"] 1732306200.42586 "/home/climaxcx/Desktop/competitive_programming/kactl/content/kactl.tex" "kactl.pdf" "kactl" 1732306202.04229 2
   "/home/climaxcx/.miktex/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt" 1712588122.38522 24232634 d5ae96aebee3826e4f61e76a5a002fd9 ""
-  "/home/climaxcx/Desktop/competitive_programming/kactl/content/kactl.tex" 1732305378.79653 932 16e1266d6c96121b4c4ebdda94e1d276 ""
+  "/home/climaxcx/Desktop/competitive_programming/kactl/content/kactl.tex" 1732306195.33342 931 b7a50a1da6eb4b32b6696ef84626d70c ""
   "extreport.cls" 0 -1 0 ""
-  "kactl.aux" 0 -1 0 "pdflatex"
-  "kactl.tex" 1732305378.79653 932 16e1266d6c96121b4c4ebdda94e1d276 ""
+  "kactl.aux" 1732306200.42343 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "kactl.tex" 1732306195.33342 931 b7a50a1da6eb4b32b6696ef84626d70c ""
   (generated)
   "kactl.aux"
   "kactl.log"

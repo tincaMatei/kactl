@@ -1,7 +1,4 @@
-#include <bits/stdc++.h>
-using namespace std;
-
-struct SUFFIX_AUTOMATON{
+struct SuffixAutomaton{
     struct STATE{
         bool is_clone;
         int link, len, cnt, first_pos;
