@@ -1,0 +1,7 @@
+# ~/.config/helix/config.toml
+theme = "beans"
+[editor]
+line-number = "relative"
+
+# ~/.config/helix/languages.toml
+indent = {tab-width = 4, unit = " "}
