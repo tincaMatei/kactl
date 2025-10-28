@@ -4,8 +4,8 @@ theme = "beans"
 line-number = "relative"
 [keys.normal."space".c]
 s = ":! $HOME/csan.sh %{buffer_name} ; echo done"
-f = ":! $HOME/cfast.sh %{buffer_name} ; echo done"
-h = ":! printf \"%{selection}\" | $HOME/hash.sh"
 t = ":! $HOME/test.sh %{buffer_name}"
+h = ":! printf \"%{selection}\" | $HOME/hash.sh"
+
 # ~/.config/helix/languages.toml
 indent = {tab-width = 4, unit = " "}
